@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in HTML related to setting the innerHTML property.  The bug arises when attempting to set innerHTML to a number instead of a string.  The solution shows the correct way to handle this scenario using string conversion.  This example highlights the importance of data type handling in web development.
